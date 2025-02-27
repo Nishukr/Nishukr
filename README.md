@@ -1,12 +1,23 @@
-- 👋 Hi, I’m @Nishukr
-- 👀 I’m interested in Software Domain...
-- 🌱 I’m currently learning Full Stack Development...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me https://www.linkedin.com/in/nishu-kumar-114bb5256?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BDtyvj%2Bf7ScCmFVpW9OtlSA%3D%3D...
-- 😄 Pronouns: he/him...
-- ⚡ Fun fact: ...
+# 👋 Hi, I'm Nishu Kumar!  
 
-<!---
-Nishukr/Nishukr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 About Me  
+🎯 Passionate about Software Development and Full-Stack Web Development.  
+💡 Always eager to learn new technologies and solve complex problems.  
+🤝 Looking for exciting collaboration opportunities in the software domain.  
+
+## 🔥 Skills & Technologies  
+- 🌐 **Web Development**: HTML, CSS, JavaScript, React, Node.js  
+- 💻 **Programming Languages**: Java, Python  
+- 🛠 **Tools & Platforms**: Git, GitHub, VS Code  
+- 📊 **Databases**: MySQL, MongoDB  
+
+## 📫 Connect with Me  
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/nishu-kumar-114bb5256](https://www.linkedin.com/in/nishu-kumar-114bb5256/))  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/Nishukr)  
+
+## ⚡ Fun Fact  
+💭 I believe **every bug is just an undocumented feature!** 😆  
+
+---
+
+🚀 Let's build something amazing together!
