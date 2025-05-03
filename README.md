@@ -39,6 +39,6 @@ I'm a *BTech CSE* student at *Jai Narain College of Technology, Bhopal*, passion
 ---
 
 ### 🌱 Contribution Graph  
-![GitHub Contribution Graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourusername&theme=blue_green)
+![GitHub Contribution Graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nishukr&theme=blue_green)
 
 🚀 Let's build something amazing together!
