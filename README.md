@@ -3,8 +3,8 @@
 I'm a *BTech CSE* student at *Jai Narain College of Technology, Bhopal*, passionate about **AI**, **Cybersecurity**, **Web Development**, and **Problem Solving**.
 
 ## 🔧 Skills
-- *Languages:* Java, C++, Python, JavaScript  
-- *Frameworks & Libraries:* React.js, Spring Boot, TensorFlow, Scikit-learn  
+- *Languages:* Java, C++, JavaScript  
+- *Frameworks & Libraries:* React.js,  
 - *Technologies:* Node.js, Express.js, MongoDB, SQL, JWT, bcrypt.js  
 - *Tools:* Git, Docker, Maven, Android Studio, VS Code, Linux  
 - *CS Fundamentals:* Data Structures & Algorithms, Object-Oriented Programming, SDLC, Networking  
