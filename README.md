@@ -34,7 +34,7 @@ I'm a *BTech CSE* student at *Jai Narain College of Technology, Bhopal*, passion
 ---
 
 ### 💻 GitHub Stats  
-![Nishu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true)
+![Nishu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nishukr&show_icons=true&hide_title=true)
 
 ---
 
