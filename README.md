@@ -28,7 +28,7 @@ I'm a *BTech CSE* student at *Jai Narain College of Technology, Bhopal*, passion
 - *Data Structures & Algorithms* – Preparing for campus placements and competitive coding.
 
 ## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/your-linkedin-id](https://www.linkedin.com/in/nishu-kumar-114bb5256/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]((https://www.linkedin.com/in/nishu-kumar-114bb5256/))  
 [![Email](https://img.shields.io/badge/Email-nishukumarsahu9752@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:nishukumarsahu9752@gmail.com)
 
 ---
