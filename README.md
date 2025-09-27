@@ -67,47 +67,25 @@ A collection of the tools, languages, and frameworks I work with.
 
 ## 🔥 Featured Projects
 
-<table>
-<tr>
-<td width="60%">
-<h3>🔗 NextGiG</h3>
-<p>A job portal tailored for blue-collar workers (e.g., carpenters, housemaids). It acts as a "LinkedIn for skilled labor" to bridge the gap between employers and workers.</p>
+### 🤖 Gigovate AI
+An AI-based student guidance application featuring a resume builder, cover letter generator, and a quiz engine for interview preparation. It also provides insights into current industry tech trends.
+<p><b>Tech Stack:</b> React.js, Node.js, Express.js, MongoDB, AI APIs</p>
+<p>🔗 <a href="https://github.com/Nishukr/Gigovate-ai">Go to Repo</a></p>
+
+### 🔗 NextGiG
+A job portal tailored for blue-collar workers (e.g., carpenters, housemaids). It acts as a "LinkedIn for skilled labor" to bridge the gap between employers and workers.
 <p><b>Tech Stack:</b> React.js, Node.js, Express.js, MongoDB</p>
 <p>🔗 <a href="https://github.com/Nishukr/NextGiG">Go to Repo</a></p>
-</td>
-<td width="40%">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a52-b673-079c63102c84.png" alt="NextGiG Screenshot" />
-</td>
-</tr>
-</table>
 
-<table>
-<tr>
-<td width="60%">
-<h3>♻️ Urban Waste Control</h3>
-<p>A smart waste management solution enabling users to report garbage issues, track collection schedules, and assist municipal operations through an interactive system.</p>
+### ♻️ Urban Waste Control
+A smart waste management solution enabling users to report garbage issues, track collection schedules, and assist municipal operations through an interactive system.
 <p><b>Tech Stack:</b> Node.js, Express, JavaScript, MongoDB, HTML/CSS </p>
 <p>🔗 <a href="https://github.com/Nishukr/Urban-waste-control">Go to Repo</a></p>
-</td>
-<td width="40%">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a52-b673-079c63102c84.png" alt="Urban Waste Control Screenshot" />
-</td>
-</tr>
-</table>
 
-<table>
-<tr>
-<td width="60%">
-<h3>📦 InStock – Inventory Management</h3>
-<p>A complete inventory control platform for businesses to manage stock efficiently, including CRUD operations, product tracking, and quantity alerts.</p>
+### 📦 InStock – Inventory Management
+A complete inventory control platform for businesses to manage stock efficiently, including CRUD operations, product tracking, and quantity alerts.
 <p><b>Tech Stack:</b> React.js, Node.js, Express.js, MongoDB</p>
 <p>🔗 <a href="https://github.com/Nishukr/instocknew">Go to Repo</a></p>
-</td>
-<td width="40%">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a52-b673-079c63102c84.png" alt="InStock Screenshot" />
-</td>
-</tr>
-</table>
 
 ---
 
