@@ -1,112 +1,147 @@
-<div align="center">
-<a href="https://github.com/Nishukr">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nishukr&theme=dracula" alt="Nishu's Profile Details" />
-</a>
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nishukr&label=Profile%20Visitors&color=blueviolet&style=flat-square" alt="Profile Visitors" />
+</p>
 
 <h1 align="center">
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />
-Hi, I'm Nishu Kumar!
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />, I'm Nishu Kumar
 </h1>
+<h3 align="center">A Passionate Developer, Innovator, and Problem Solver</h3>
 
 <p align="center">
-A B.Tech CSE student at Jai Narain College of Technology, Bhopal, passionate about building intelligent and scalable solutions. <br />
-Specializing in <b>AI</b>, <b>Web Development</b>, and <b>Cybersecurity</b>.
+  <a href="https://github.com/Nishukr">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Full-Stack+Development;Artificial+Intelligence;Cybersecurity" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/nishu-kumar-114bb5256/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:nishukumarsahu9752@gmail.com">
-    <img src="https://img.shields.io/badge/Email-nishukumarsahu9752%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
+  <a href="https://www.linkedin.com/in/nishu-kumar-114bb5256/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:nishukumarsahu9752@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
 
 ---
 
-## 🚀 My Tech Stack
-A collection of the tools, languages, and frameworks I work with.
+### 🧐 About Me
 
-**Languages**  
-<p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-
-**Frontend**  
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</p>
-
-**Backend**  
-<p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-</p>
-
-**Databases & Auth**  
-<p>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-</p>
-
-**Tools & Platforms**  
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
-
-**Core CS Fundamentals**: Data Structures & Algorithms, Object-Oriented Programming, SDLC, Networking
+- 🎓 I'm a final-year **B.Tech CSE student** at Jai Narain College of Technology, Bhopal.
+- 💻 I'm passionate about building robust web applications and exploring the fascinating world of **AI**.
+- 🔐 My core interests lie in **Full-Stack Development**, **Artificial Intelligence**, and **Cybersecurity**.
+- 🌱 I’m currently focused on sharpening my skills in **Advanced Data Structures** and building scalable backend systems.
+- 🤝 Open to collaborating on innovative projects and interested in internship opportunities.
 
 ---
 
-## 🔥 Featured Projects
+### 🛠️ My Tech Stack
 
-### 🤖 Gigovate AI
-An AI-based student guidance application featuring a resume builder, cover letter generator, and a quiz engine for interview preparation. It also provides insights into current industry tech trends.
-<p><b>Tech Stack:</b> React.js, Node.js, Express.js, MongoDB, AI APIs</p>
-<p>🔗 <a href="https://github.com/Nishukr/Gigovate-ai">Go to Repo</a></p>
+Here are some of the technologies I work with:
 
-### 🔗 NextGiG
-A job portal tailored for blue-collar workers (e.g., carpenters, housemaids). It acts as a "LinkedIn for skilled labor" to bridge the gap between employers and workers.
-<p><b>Tech Stack:</b> React.js, Node.js, Express.js, MongoDB</p>
-<p>🔗 <a href="https://github.com/Nishukr/NextGiG">Go to Repo</a></p>
+<table>
+  <tr>
+    <td align="center"><strong>Frontend</strong></td>
+    <td align="center"><strong>Backend</strong></td>
+    <td align="center"><strong>Languages</strong></td>
+    <td align="center"><strong>Databases</strong></td>
+    <td align="center"><strong>Tools & Platforms</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react,html,css" /><br>
+      React, HTML5, CSS3
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,java" /><br>
+      Node.js, Express.js, Java
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=javascript,java,cpp" /><br>
+      JavaScript, Java, C++
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql" /><br>
+      MongoDB, SQL
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git,docker,linux,vscode" /><br>
+      Git, Docker, Linux, VS Code
+    </td>
+  </tr>
+</table>
 
-### ♻️ Urban Waste Control
-A smart waste management solution enabling users to report garbage issues, track collection schedules, and assist municipal operations through an interactive system.
-<p><b>Tech Stack:</b> Node.js, Express, JavaScript, MongoDB, HTML/CSS </p>
-<p>🔗 <a href="https://github.com/Nishukr/Urban-waste-control">Go to Repo</a></p>
-
-### 📦 InStock – Inventory Management
-A complete inventory control platform for businesses to manage stock efficiently, including CRUD operations, product tracking, and quantity alerts.
-<p><b>Tech Stack:</b> React.js, Node.js, Express.js, MongoDB</p>
-<p>🔗 <a href="https://github.com/Nishukr/instocknew">Go to Repo</a></p>
+**Core Knowledge**: Data Structures & Algorithms, OOP, SDLC, Networking, Cybersecurity
 
 ---
 
-## 🏅 Achievements & Recognition
+### 📂 Featured Projects
 
-- 🏆 **Winner** - Project Expo 2024 (for *Urban Waste Control System*)
-- 📜 **Certified** in Java Programming & C++ Programming
+Here are some of my key projects.
 
-**Virtual Internships Completed:**
-- Fortinet Network Security Associate
-- CISCO Networking Academy - Cybersecurity Essentials
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 Gigovate AI</h3>
+      <p>An AI-based student guidance app with a resume builder, quiz engine, and industry trend insights.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+        <img src="https://img.shields.io/badge/AI-005571?style=for-the-badge" alt="AI">
+      </p>
+      <p>🔗 <a href="https://github.com/Nishukr/Gigovate-ai">View Repository</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔗 NextGiG</h3>
+      <p>A "LinkedIn for skilled labor"—a job portal connecting blue-collar workers with employers.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+        <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+      </p>
+      <p>🔗 <a href="https://github.com/Nishukr/NextGiG">View Repository</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>♻️ Urban Waste Control</h3>
+      <p>A smart waste management system for residents to report issues and track collection schedules.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+      </p>
+      <p>🔗 <a href="https://github.com/Nishukr/Urban-waste-control">View Repository</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📦 InStock Inventory</h3>
+      <p>A complete inventory management platform for businesses to track stock and manage products.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+      </p>
+      <p>🔗 <a href="https://github.com/Nishukr/instocknew">View Repository</a></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📊 My GitHub Stats
+### 🏆 Achievements & Certifications
+
+-   🥇 **Winner** - Project Expo 2024 for the *Urban Waste Control System*.
+-   📜 **Certified Programmer** in both **Java** and **C++**.
+-   🛡️ Completed Virtual Internships in **Network Security** (Fortinet) and **Cybersecurity Essentials** (CISCO).
+
+---
+
+### 📊 My GitHub Activity
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Nishukr&show_icons=true&theme=dracula&hide_title=true&count_private=true&include_all_commits=true" alt="Nishu's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nishukr&layout=compact&theme=dracula&hide_title=true" alt="Top Languages" />
+  <a href="https://github.com/Nishukr">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nishukr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishukr&layout=compact&langs_count=8&theme=tokyonight"/>
+  </a>
 </p>
-
----
-
-> 🚀 Let's build something impactful together. Open to internships and collaborations!
+<p align="center">
+  <a href="https://github.com/Nishukr">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nishukr&theme=tokyonight" alt="GitHub Streak" />
+  </a>
+</p>
